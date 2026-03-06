@@ -1,89 +1,58 @@
-<h1 align="center">Hi 👋 I'm Limiao</h1>
-
-<p align="center">
-Future Backend Developer 🚀
-</p >
-
-<p align="center">
-< img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Java+Backend+Developer;Learning+Everyday;Future+Software+Engineer" />
-</p >
+![Profile Views](https://komarev.com/ghpvc/?username=3209319055lm-eng&color=blue)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Limiao;Java+Backend+Developer;Welcome+to+my+GitHub)
+<h1 align="center">Hi 👋, I'm Limiao</h1>
+<h3 align="center">A Java Student Learning Backend Development</h3>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Java Backend Development**
-- 💻 Learning **Git / GitHub / Data Structures**
-- 🚀 Goal: Become a **Software Engineer**
-- 📚 Always learning new technologies
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-< img src="https://skillicons.dev/icons?i=java" />
-< img src="https://skillicons.dev/icons?i=git" />
-< img src="https://skillicons.dev/icons?i=github" />
-< img src="https://skillicons.dev/icons?i=vscode" />
-< img src="https://skillicons.dev/icons?i=intellij" />
-
-</p >
+- 🎓 I'm currently studying programming
+- 💻 Currently learning **Java**
+- 🌱 Learning **Git, GitHub, Data Structures**
+- 🎯 Goal: Become a **Backend Developer**
+- 📫 How to reach me: GitHub
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Languages and Tools
 
-<p align="center">
+![My Skills](https://skillicons.dev/icons?i=java,git,github,idea,vscode)
+---
 
-< img src="https://streak-stats.demolab.com?user=limiao&theme=tokyonight" />
-< img height="180em" src="https://github-readme-stats.vercel.app/api?username=limiao< img src="https://streak-stats.demolab.com?user=limiao&theme=tokyonight" />&show_icons=true&theme=tokyonight"/>
+## 📊 GitHub Stats
 
-< img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiao&layout=compact&theme=tokyonight"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=3209319055lm-eng&show_icons=true&theme=tokyonight)
+---
 
-</p >
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3209319055lm-eng&theme=tokyonight)
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Most Used Languages
 
-<p align="center">
-
-< img src="https://streak-stats.demolab.com?user=limiao&theme=tokyonight" />
-
-</p >
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3209319055lm-eng&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏆 GitHub Trophies
+## 🧠 Currently Learning
 
-<p align="center">
-
-< img src="https://github-profile-trophy.vercel.app/?username=limiao&theme=tokyonight&row=1&column=6" />
-
-</p >
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-< img src="https://github-readme-activity-graph.vercel.app/graph?username=limiao&theme=tokyo-night" />
-
-</p >
+- Java OOP
+- Data Structures
+- Algorithms
+- Git Workflow
 
 ---
 
-# 👀 Visitors
+## 🌟 Goals for 2025
 
-<p align="center">
-
-< img src="https://komarev.com/ghpvc/?username=limiao&label=Profile%20views&color=0e75b6&style=flat" />
-
-</p >
+- Build **10 Java Projects**
+- Master **Git & GitHub**
+- Learn **Spring Boot**
 
 ---
 
-⭐ From [limiao](https://github.com/limiao)
+⭐️ From [Limiao](https://github.com/3209319055lm-eng)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
