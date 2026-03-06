@@ -17,10 +17,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
-< img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode" />
-</p >
-
+![My Skills](https://skillicons.dev/icons?i=java,git,github,idea,vscode)
 ---
 
 ## 📊 GitHub Stats
