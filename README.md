@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=3209319055lm-eng&color=blue)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Limiao;Java+Backend+Developer;Welcome+to+my+GitHub)
-<h1 align="center">Hi 👋, I'm Limiao</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+kernel;Java+Backend+Developer;Welcome+to+my+GitHub)
+<h1 align="center">Hi 👋, I'm kernel</h1>
 <h3 align="center">A Java Student Learning Backend Development</h3>
 
 ---
@@ -74,5 +74,5 @@ Here are the main languages and tools I use:
 
 ---
 
-⭐️ From [Limiao](https://github.com/3209319055lm-eng)
+⭐️ From [kernel](https://github.com/3209319055lm-eng)
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
